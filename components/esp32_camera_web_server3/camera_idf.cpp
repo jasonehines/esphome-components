@@ -1,6 +1,0 @@
-#include "idf/httpd_main.c"
-#include "idf/httpd_parse.c"
-#include "idf/httpd_sess.c"
-#include "idf/httpd_txrx.c"
-#include "idf/httpd_uri.c"
-#include "idf/ctrl_sock.c"
